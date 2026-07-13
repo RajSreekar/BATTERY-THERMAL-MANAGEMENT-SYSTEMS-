@@ -10,6 +10,10 @@ Lithium-ion batteries generate excessive heat during operation, making conventio
 # Project Summary
 A hybrid Battery Thermal Management System (BTMS) integrating Phase Change Material (PCM), heat pipes, and cooling fins is proposed to efficiently dissipate heat from lithium-ion battery packs. PCM absorbs excess heat, heat pipes rapidly transfer it away from the cells, and cooling fins enhance heat dissipation through increased airflow, resulting in improved thermal performance, temperature uniformity, and battery safety.
 
+<img width="380" height="205" alt="Heat Transfer" src="https://github.com/user-attachments/assets/e20f7f42-88be-4d5e-870e-e4ec16e81694" />
+
+- This image depicts the working principle of the project
+
 # Technologies & Materials Used:
 | Category           | Tools                                                                   |
 | ------------------ | ----------------------------------------------------------------------- |
@@ -30,14 +34,14 @@ A hybrid Battery Thermal Management System (BTMS) integrating Phase Change Mater
 
 # Simulated Results:
 
-<img width="380" height="205" alt="Heat Transfer" src="https://github.com/user-attachments/assets/e20f7f42-88be-4d5e-870e-e4ec16e81694" />
-
-- This image depicts the working principle of the project
-
 https://github.com/user-attachments/assets/94f355bb-0325-44fa-9ecc-0e547c49b59c
 
 - This video shows the ANSYS simulation of the heat being transfer with only PCM & PHP, which proved insufficient to transfer the heat in the required time
 
+https://github.com/user-attachments/assets/565f1cb4-fd7f-4f07-b5f9-fbdcd2d7b0cc
+
+- This video depicts the ANSYS simulation of the final working model. ANSYS Fluent simulations were conducted to evaluate the thermal performance of battery cells and modules, analyzing temperature, pressure, airflow, and heat transfer to validate the effectiveness of the proposed hybrid BTMS.
+
 <img width="718" height="422" alt="image_2026-07-14_020557465" src="https://github.com/user-attachments/assets/5cb7cd04-e722-4541-a9b6-7597bcf3f725" />
 
-- This is the CAD designed transparent schematic that shows the final model of the product.
+- This is the CAD designed transparent schematic that shows the final working model of the product.
