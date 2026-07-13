@@ -9,3 +9,17 @@ Lithium-ion batteries generate excessive heat during operation, making conventio
 
 # Project Summary
 A hybrid Battery Thermal Management System (BTMS) integrating Phase Change Material (PCM), heat pipes, and cooling fins is proposed to efficiently dissipate heat from lithium-ion battery packs. PCM absorbs excess heat, heat pipes rapidly transfer it away from the cells, and cooling fins enhance heat dissipation through increased airflow, resulting in improved thermal performance, temperature uniformity, and battery safety.
+
+# Technologies & Materials Used:
+| Category           | Tools                                                                   |
+| ------------------ | ----------------------------------------------------------------------- |
+| CAD Design         | Fusion 360                                                              |
+| CFD Simulation     | ANSYS Fluent                                                            |
+| Battery Modeling   | LiFePO₄, NMC, Molicel Cells                                             |
+| Thermal Materials  | Paraffin Wax PCM, Silicon Carbide (SiC), Expanded Graphite, Epoxy Resin |
+| Cooling Components | Heat Pipes, Pulsating Heat Pipes, Aluminum Fins                         |
+
+- Battery Configurations Studied:
+  - LiFePO₄ Battery Pack: An 8-cell (4S2P) LiFePO₄ battery module was analyzed to evaluate the proposed BTMS, with operating temperatures reaching 42°C during charging and 52°C during discharging.
+
+  - Molicel Battery Pack: A 30-cell (6S5P) Molicel battery pack was designed for high-discharge applications, reaching temperatures of up to 60°C to assess the cooling system under demanding operating conditions.
