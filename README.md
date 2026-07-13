@@ -45,3 +45,26 @@ https://github.com/user-attachments/assets/565f1cb4-fd7f-4f07-b5f9-fbdcd2d7b0cc
 <img width="718" height="422" alt="image_2026-07-14_020557465" src="https://github.com/user-attachments/assets/5cb7cd04-e722-4541-a9b6-7597bcf3f725" />
 
 - This is the CAD designed transparent schematic that shows the final working model of the product.
+
+# Applications
+ - Electric Vehicles (EVs)
+ - Hybrid Electric Vehicles (HEVs)
+ - Agricultural Drones
+ - UAV Battery Systems
+ - High-power Lithium-ion Battery Packs
+ - Portable Energy Storage Systems
+
+# Future Scope
+ - Prototype fabrication and experimental validation
+ - Optimization of PCM composition
+ - Advanced heat pipe geometries
+ - Active-passive hybrid cooling integration
+ - AI-based thermal control
+ - Lightweight composite battery enclosure
+ - Real-time battery temperature monitoring
+
+# Project Status
+- The project has successfully completed the design, simulation, and initial experimental phases. CAD models for the battery pack, PCM mold, flat heat pipes, and pulsating heat pipes were developed in Fusion 360, while thermal performance was evaluated using ANSYS Fluent
+
+# Author
+B RAJ SREEKAR
