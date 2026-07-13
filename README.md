@@ -27,3 +27,17 @@ A hybrid Battery Thermal Management System (BTMS) integrating Phase Change Mater
  - PCM Composition: A composite Phase Change Material comprising 50% paraffin wax, 30% epoxy resin, 17% silicon carbide (SiC), and 3% expanded graphite (EG) was developed through hit & trial to enhance thermal conductivity while maintaining efficient latent heat storage for improved battery cooling.
 
  - Simulation Studies: Thermal performance was evaluated using ANSYS Fluent through simulations of single-cell, multi-cell, and full battery pack configurations with PCM and heat pipes. The analyses examined temperature distribution, pressure, airflow velocity, and overall heat transfer to validate the effectiveness of the proposed BTMS.
+
+# Simulated Results:
+
+<img width="380" height="205" alt="Heat Transfer" src="https://github.com/user-attachments/assets/e20f7f42-88be-4d5e-870e-e4ec16e81694" />
+
+- This image depicts the working principle of the project
+
+https://github.com/user-attachments/assets/94f355bb-0325-44fa-9ecc-0e547c49b59c
+
+- This video shows the ANSYS simulation of the heat being transfer with only PCM & PHP, which proved insufficient to transfer the heat in the required time
+
+<img width="718" height="422" alt="image_2026-07-14_020557465" src="https://github.com/user-attachments/assets/5cb7cd04-e722-4541-a9b6-7597bcf3f725" />
+
+- This is the CAD designed transparent schematic that shows the final model of the product.
